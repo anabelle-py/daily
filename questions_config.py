@@ -1,0 +1,9 @@
+EXERCISE_QUESTIONS = ["ציון כללי"]
+
+PERSONAL_LEARN_QUESTIONS = ["ציון כללי"]
+
+LECTURE_QUESTIONS = ["ציון כללי"]
+
+PHYSICAL_TRAINING_QUESTIONS = ["ציון כללי"]
+
+

@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+urllib3
+pydantic
+openpyxl

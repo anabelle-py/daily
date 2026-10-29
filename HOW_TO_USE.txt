@@ -1,0 +1,10 @@
+first run the server with this command:  uvicorn api:app --host 0.0.0.0 --port 9000
+
+then go to: http://localhost:9000/docs
+
+open the exercise-responses.xlsx request
+
+in moduleName write the name of the module - for example "שבוע 4"
+in exerciseName write the name of the exercise - for example "25.10.2026"
+
+run the request and download the excel file
